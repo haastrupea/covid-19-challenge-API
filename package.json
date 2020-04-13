@@ -1,0 +1,26 @@
+{
+  "name": "covid-19-challenge-api",
+  "version": "1.0.0",
+  "description": "api for covid-19 estimator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haastrupea/covid-19-challenge-API.git"
+  },
+  "keywords": [
+    "covid-19",
+    "api"
+  ],
+  "author": "Haastrup ELijah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haastrupea/covid-19-challenge-API/issues"
+  },
+  "homepage": "https://github.com/haastrupea/covid-19-challenge-API#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
